@@ -209,7 +209,7 @@ If you later restore network access, simply remove the corresponding entries in
 ---
 
 ## Citation
-'''
+`
 @INPROCEEDINGS{10390962,
   author={Rao, Balaji and Hayeri, Yeganeh M.},
   booktitle={2023 International Conference on Artificial Intelligence, Blockchain, Cloud Computing, and Data Analytics (ICoABCD)}, 
@@ -220,4 +220,4 @@ If you later restore network access, simply remove the corresponding entries in
   pages={31-36},
   keywords={Data analysis;Design methodology;Estimation;Games;Blockchains;Peer-to-peer computing;Consensus protocol;blockchain;proof-of-stake;consensus mechanisms;validator selection;game theory},
   doi={10.1109/ICoABCD59879.2023.10390962}}
-'''
+`

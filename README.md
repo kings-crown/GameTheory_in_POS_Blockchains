@@ -206,4 +206,18 @@ If you later restore network access, simply remove the corresponding entries in
   after every run; if the export is missing you’ll see a warning in the console.
 
 
+---
 
+## Citation
+'''
+@INPROCEEDINGS{10390962,
+  author={Rao, Balaji and Hayeri, Yeganeh M.},
+  booktitle={2023 International Conference on Artificial Intelligence, Blockchain, Cloud Computing, and Data Analytics (ICoABCD)}, 
+  title={A Game theoretic approach for validator selection in proof of stake blockchains}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={31-36},
+  keywords={Data analysis;Design methodology;Estimation;Games;Blockchains;Peer-to-peer computing;Consensus protocol;blockchain;proof-of-stake;consensus mechanisms;validator selection;game theory},
+  doi={10.1109/ICoABCD59879.2023.10390962}}
+'''

@@ -1,0 +1,13 @@
+.gocache/
+.gopath/
+artifacts/
+Vic_gen/blockchain.xlsx
+Vick/blockchain.xlsx
+Random/blockchain.xlsx
+Random_gen/blockchain.xlsx
+Simulation/blockchain.xlsx
+Simulation.zip
+.DS_Store
+__MACOSX/
+*.log
+
